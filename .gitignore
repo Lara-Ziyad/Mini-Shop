@@ -1,0 +1,5 @@
+JeremiahsNotes.md
+package-lock.json
+.env
+node_modules  
+# do not delete node modules because everyone will have different node modules and when pushing and pulling from gitHub 
